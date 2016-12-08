@@ -167,7 +167,7 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
     <div class="text-center center-block">
-        <p class="txt-railway">- jumbled.herokuapp.com -</p>
+        <p class="txt-railway">- Mazahir Haroon -</p>
         <br />
             <a href="https://www.facebook.com/mazahir.haroon"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
           <a href="https://twitter.com/mazahirharoon"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>
