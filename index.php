@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <!-- required meta tags -->
+    <!-- Required meta tags always come first -->
     <title>Jumbled</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -14,7 +14,7 @@
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
     <link href="https://fonts.googleapis.com/css?family=Bungee+Inline" rel="stylesheet">
 
-    <!-- Google Fonts -->
+    <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css?family=Luckiest+Guy" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
 
@@ -172,7 +172,7 @@
             <a href="https://www.facebook.com/mazahir.haroon"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
           <a href="https://twitter.com/mazahirharoon"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>
           <a href="https://github.com/MazahirHaroon"><i class="fa fa-github-square fa-3x social" aria-hidden="true"></i></a>
-          <a href="mailto:mazahirharoon@gmail.com"><i class="fa fa-wordpress fa-3x social" aria-hidden="true"></i></a>
+          <a href="https://mazahirharoon.wordpress.com/"><i class="fa fa-wordpress fa-3x social" aria-hidden="true"></i></a>
           <a href="mailto:mazahirharoon@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
 
 
