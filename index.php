@@ -85,6 +85,10 @@
           </div>
         </div>
       </form>
+      <center>
+      <blockquote><p style="font-family: 'Lato', sans-serif;">Note : You might find some unfamilair words among the possible combinations found from the letter you have entered.
+      </p></blockquote>
+    </center>
     </div>
 
 
