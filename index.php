@@ -155,7 +155,6 @@
 <?php } ?>
 
 </div>
-<?php echo "<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>"; ?>
     </body>
 
     </div>
