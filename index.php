@@ -166,15 +166,14 @@
     <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 
     <div class="text-center center-block">
+        <p class="txt-railway">- jumbled.herokuapp.com -</p>
         <br />
             <a href="https://www.facebook.com/mazahir.haroon"><i id="social-fb" class="fa fa-facebook-square fa-3x social"></i></a>
           <a href="https://twitter.com/mazahirharoon"><i id="social-tw" class="fa fa-twitter-square fa-3x social"></i></a>
           <a href="https://github.com/MazahirHaroon"><i class="fa fa-github-square fa-3x social" aria-hidden="true"></i></a>
           <a href="mailto:mazahirharoon@gmail.com"><i class="fa fa-wordpress fa-3x social" aria-hidden="true"></i></a>
           <a href="mailto:mazahirharoon@gmail.com"><i id="social-em" class="fa fa-envelope-square fa-3x social"></i></a>
-        <br />
-        <p class="txt-railway">- jumbled.herokuapp.com -</p>
-        <br />
+
 
 </div>
 <hr>
