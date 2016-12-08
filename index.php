@@ -148,7 +148,7 @@
         <?php
       }
     ?>
-  <h2 style="font-family: 'Lato', sans-serif;"><a href="index.php"><input type  = "submit" value = "&nbsp Try Another Word! &nbsp" style="margin-left:81px; font-weight:bold; color:white; background-color:grey; font-size:120%;" /></a>
+  <h2 style="font-family: 'Lato', sans-serif;"><a href="index.php"><input type  = "submit" value = "&nbsp Try Another Word! &nbsp" style="font-weight:bold; color:white; background-color:grey; font-size:120%;" /></a>
   </h2>
 </center>
 
