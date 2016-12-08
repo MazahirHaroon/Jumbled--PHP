@@ -86,7 +86,7 @@
         </div>
       </form>
       <center>
-      <blockquote><p style="font-family: 'Lato', sans-serif;">Note : You might find some unfamilair words among the possible combinations found from the letter you have entered.
+      <blockquote><p style="font-family: 'Lato', sans-serif;">Note : You might find some unfamilair words among the solutions found using the letters you have entered.
       </p></blockquote>
     </center>
     </div>
