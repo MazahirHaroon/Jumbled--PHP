@@ -55,7 +55,7 @@
       ?>
       </head>
       <body>
-
+    <?php include_once("analyticstracking.php") ?>
     <nav class="navbar navbar-default" role="navigation" style="background-color:silver;">
       <a class="navbar-brand" href="index.php" style='margin-top:30px;color:white;font-size:45px;font-family:Luckiest Guy, cursive'>Jumbled</a>
     </nav>
