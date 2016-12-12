@@ -104371,6 +104371,7 @@ fadge
 fadged
 fadges
 fadging
+fadil
 fading
 fadingly
 fadingness
@@ -105753,6 +105754,7 @@ fazendas
 fazendeiro
 fazes
 fazing
+fazil
 fb
 fbi
 fc
@@ -154035,6 +154037,7 @@ jubilist
 jubilization
 jubilize
 jubilus
+jubina
 jubus
 juchart
 juck
@@ -154625,6 +154628,7 @@ kabbalas
 kabel
 kabeljou
 kabeljous
+kabeer
 kaberu
 kabiet
 kabiki
@@ -189347,6 +189351,7 @@ nilled
 nilling
 nills
 nilometer
+nilopher
 nilot
 nilotic
 nilpotent
@@ -189489,6 +189494,7 @@ nisan
 nisberry
 nisei
 niseis
+nishi
 nishiki
 nisi
 nisnas
@@ -262328,6 +262334,7 @@ ruinousness
 ruinproof
 ruins
 rukh
+rukzana
 rulable
 rule
 ruled
@@ -273250,6 +273257,7 @@ shabbos
 shabby
 shabbyish
 shabeque
+shabina
 shabrack
 shabracque
 shabroon
@@ -273408,6 +273416,7 @@ shahee
 shaheen
 shahi
 shahidi
+shahim
 shahin
 shahs
 shahzada
